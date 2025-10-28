@@ -18,7 +18,7 @@ O objetivo é gerir um grupo de animais virtuais (como onças, macacos, elefante
 
 - **Estados Visuais**: Imagens diferentes são mostradas se o animal estiver ativo ou com pouca energia/exausto;
 
-- **Classes POO**: Estrutura organizada usando Programação Orientada a Objetos, permitindo fácil adição de novos tipos de animais;
+- **Classes POO**: Estrutura organizada usando Programação Orientada a Objetos, permitindo fácil adição de novos tipos de animais.
 
 - ## 💻 Tecnologias Utilizadas:
 - **Python;**
